@@ -11,7 +11,7 @@ Automated lane keeping and obstacle avoidance for vehicles using symbolic contro
 ![vehicle_arena](figs/vehicle_arena.jpg)
 * Obstacles shown in blue color
 * The grey area denotes the lane for which control values are available, and the vehicle can be steered forward successfully.
-* The green dot is and initial point for which the trajectory is shown in black color; target area denoted in red.
+* The green dot is an initial point for which the trajectory is shown in black color; target area denoted in red.
 * The arena and the controller are generated with: [vehicle_lane.cc](files/vehicle_lane.cc).
 * The figure is plotted with: [vehicle_lane.m](files/vehicle_lane.m).
 
